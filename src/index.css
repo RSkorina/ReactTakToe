@@ -62,3 +62,10 @@ body {
     text-align: center;
   }
   
+  .timeline {
+    background: #808080;
+    color: #000;
+    font-weight: bold;
+    padding: 1;
+    text-align: center;
+  }
